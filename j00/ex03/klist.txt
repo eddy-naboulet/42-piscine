@@ -1,0 +1,5 @@
+Credentials cache: API:42D69A4B-8E5F-42A3-BFA8-2F3F21ED9A6E
+        Principal: enaboule@42.FR
+
+  Issued                Expires               Principal
+Oct 13 12:29:28 2015  Oct 20 12:29:28 2015  krbtgt/42.FR@42.FR
